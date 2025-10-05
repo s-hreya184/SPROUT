@@ -3,7 +3,7 @@
 Team Project | Google Cloud (Firebase) Web App
 
 Overview:
-Sprout is a web application designed to [insert purpose briefly — e.g., "help children with ADHD and dyslexia learn through gamified exercises"].
+Sprout is a web application designed to help children with ADHD and dyslexia learn through gamified exercises
 It leverages Google Cloud (Firebase) services for user authentication, hosting, and data management.
 
 Tech Stack:
